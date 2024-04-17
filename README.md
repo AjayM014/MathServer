@@ -131,7 +131,8 @@ urlpatterns = [
 ```
 
 ## HOMEPAGE:
-![image](https://github.com/AjayM014/MathServer/assets/150011759/0e43e04d-713e-46ca-8bbb-26e589be462e)
+![image](https://github.com/AjayM014/MathServer/assets/150011759/866c9ad3-456b-45b2-bd58-14d942e7d6cb)
+
 
 
 ## RESULT:
